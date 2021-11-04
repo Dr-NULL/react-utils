@@ -22,3 +22,8 @@ PS C:\projects> cd ./react-utils
 ```ps
 PS C:\projects\react-utils> npm link ../[name]/node_modules/react
 ```
+
+- Finally build the repository:
+```ps
+PS C:\projects\react-utils> npm run build
+```
